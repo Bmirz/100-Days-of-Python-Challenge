@@ -1,3 +1,5 @@
+#Note: f strings allow you to more eadily print a spring without changing data types
+
 # 🚨 Don't change the code below 👇
 age = input("What is your current age? ")
 # 🚨 Don't change the code above 👆
