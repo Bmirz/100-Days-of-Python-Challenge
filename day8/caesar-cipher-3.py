@@ -15,7 +15,7 @@ def caesar(cipher_direction, start_text, shift_amount):
     elif cipher_direction == "decode":
       new_position = position - shift_amount
     end_text += alphabet[new_position]
-  print(f"The text reads {end_text}")
+  print(f"Here's the {direction}d result: {end_text}")
 
   
 
