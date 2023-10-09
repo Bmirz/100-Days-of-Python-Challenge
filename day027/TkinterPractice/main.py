@@ -1,4 +1,4 @@
-#Oct. 7, 2023 - Creating my first GUI utlizing Tkinter
+#Oct. 8, 2023 - Practice with GUI utlizing Tkinter
 
 # "import *" allows us to use all functions in the import with directly referencing every time
 from tkinter import *
@@ -7,7 +7,7 @@ from tkinter import *
 
 window = Tk()
 
-window.title("My first GUI Program")
+window.title("GUI Practice")
 window.minsize(width=500, height=300)
 
 #-------Label-------
